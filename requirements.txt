@@ -4,7 +4,7 @@ scikit-learn
 scikit-image
 requests
 django
-tensorflow
+tensorflow-gpu
 keras
 pandas
 celery
